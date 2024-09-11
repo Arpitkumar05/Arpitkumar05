@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Arpit Kumar<br><br>- 🔭 I’m a Front-end Developer as ...<br>- 📚 I'm currently learning Back-end<br>- ⚡ I’m currently working on [NayaBihar Project](Link Coming soon)</p>
+<p align="left">I'm Arpit Kumar<br><br>- 🔭 I’m a Front-end Developer as <br>- 📚 I'm currently learning Back-end with DSA<br>- ⚡ I’m currently working on [NayaBihar Project](Link Coming soon)</p>
 
 ###
 
